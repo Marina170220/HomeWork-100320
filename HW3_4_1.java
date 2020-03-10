@@ -1,7 +1,5 @@
 package KompjuterIya.HomeWork;
 
-import org.w3c.dom.ls.LSOutput;
-
 public class HW3_4_1 {
     static int factorial(int n) {
         int result = 1;
